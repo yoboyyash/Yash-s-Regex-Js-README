@@ -41,7 +41,7 @@ Begin by accessing the deployed GitHub Gist link provided. Take time to read thr
 
 
 
-![Alt Text](./assets/Screenshot)
+![Alt Text](./images/Screenshot1.png)
 
 
   
